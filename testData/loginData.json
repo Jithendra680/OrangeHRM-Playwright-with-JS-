@@ -1,0 +1,14 @@
+{
+  "expectedDashboardUrlPart": "dashboard",
+  "expectedTitle": "OrangeHRM",
+  "credentials": {
+    "valid": {
+      "username": "Admin",
+      "password": "admin123"
+    },
+    "invalid": {
+      "username": "wronguser",
+      "password": "wrongpassword"
+    }
+  }
+}
